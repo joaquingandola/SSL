@@ -1,1 +1,1 @@
-
+Seleccioné el compilador MINGW
